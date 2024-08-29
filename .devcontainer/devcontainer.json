@@ -6,6 +6,5 @@
                 "ms-vscode.live-server"  // Live Preview extension
             ]
         }
-    },
-    "postCreateCommand": "sleep 5 && code --command liveshare.start"
+    }
 }
